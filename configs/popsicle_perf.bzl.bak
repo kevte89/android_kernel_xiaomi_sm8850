@@ -1,0 +1,11 @@
+popsicle_perf_config = {
+    # keep sorted
+    # Dropped (drivers unavailable): FINGERPRINT_MI_FP, INPUT_CS40L26,
+    # INPUT_CS40L26_I2C, SND_SOC_CS40L26, CL_DSP, DEVICE_MODULES_DIO_DMABUF_MAPPER,
+    # MI_KERNEL_MONITOR
+    "CONFIG_IR_SPI": "m",
+    "CONFIG_POWERINSIGHT": "m",
+    "CONFIG_POWERINSIGHT_GPU_OPP": "m",
+    "CONFIG_POWERINSIGHT_GPU_OPP_STATS": "y",
+    "CONFIG_POWERINSIGHT_GPU_FREQ_STATS": "m",
+}

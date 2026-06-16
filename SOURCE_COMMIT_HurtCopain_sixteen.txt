@@ -1,0 +1,3 @@
+a7a5aa9da895286489c4a05182184d286b13050c
+Source repo: https://github.com/HurtCopain/xiaomi_kernel_sm8850
+Source branch: sixteen
